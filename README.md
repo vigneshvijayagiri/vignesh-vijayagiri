@@ -1,5 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/67bed47c5880c722dc65ccd124d08279ec297ee20058eabe2115ab7742677740/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130302f302a4647443642557a7a5a7331564a4c75592e676966)
-<h1 align="center">Hi 👋, I'm Vignesh Vijayagiri</h1>
+<h1 align="center">Hi 👋, I'm Vijayagiri Vignesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
